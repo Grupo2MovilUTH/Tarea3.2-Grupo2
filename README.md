@@ -6,3 +6,5 @@
 - Josue David Mora bonilla 201910070159
 - Luis Enrique Crúz Gámez 202210010814
 - Sindy Osiris Zepeda Zelaya 202120010035
+
+# Ver PRESENTACION.PDF
